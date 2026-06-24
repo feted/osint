@@ -11,7 +11,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <img 
-              src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/us-federal-government/default.svg" 
+              src="https://images.squarespace-cdn.com/content/5f36d14c1f72076cfa6b46fb/1681154931981-D16LRXM3D23PD5VB0ZAA/OSINT_MAINICONB_FINAL_LORES-01.png" 
               alt="Government OSINT" 
               className="h-8 w-8"
             />
